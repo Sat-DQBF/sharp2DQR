@@ -1,6 +1,12 @@
 # sharp2DQR
 
-This is an implementation of sharp2DQR
+This is an implementation of sharp2DQR which counts the number of Skolem functions of a given 2-DQBF.
+
+The theoretical study and algorithm that forms the basis of sharp2DQR is published in the paper:
+
+  Model Counting for Dependency Quantified Boolean Formulas\
+  Long-Hin Fung, Che Cheng, Jie-Hong Roland Jiang, Friedrich Slivovsky, Tony Tan\
+  To appear in the Proceedings of AAAI 2026
 
 ## Building this project
 - Install [`vcpkg`](https://github.com/microsoft/vcpkg)
