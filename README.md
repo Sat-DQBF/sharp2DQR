@@ -2,7 +2,7 @@
 
 This is an implementation of sharp2DQR which counts the number of Skolem functions of a given 2-DQBF.
 
-The theoretical study and algorithm that forms the basis of sharp2DQR is published in the paper:
+The theoretical study of #2-DQBF that forms the basis of sharp2DQR is published in the paper:
 
   Model Counting for Dependency Quantified Boolean Formulas\
   Long-Hin Fung, Che Cheng, Jie-Hong Roland Jiang, Friedrich Slivovsky, Tony Tan\
