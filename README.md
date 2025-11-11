@@ -1,6 +1,6 @@
 # sharp2DQR
 
-This is an implementation of sharp2DQR which counts the number of Skolem functions of a given 2-DQBF.
+This is an implementation of sharp2DQR for counting the number of Skolem functions of a given 2-DQBF.
 
 The theoretical study of #2-DQBF that forms the basis of sharp2DQR is published in the paper:
 
